@@ -1,4 +1,4 @@
-VERSION="${1:-18.12.1}"
+VERSION="${1:-18.16.0}"
 
 if [ ! -d "/opt/node/$VERSION" ]
 then
